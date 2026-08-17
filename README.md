@@ -61,19 +61,19 @@ Cloud applications require scalable and reliable computing resources. The object
 
 ### EC2 Monitoring
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-04 093457" src="https://github.com/user-attachments/assets/ce6c4e2b-2db1-4eac-b9e5-dfdf14f5b7de" />
-<img width="1920" height="1080" alt="Screenshot 2026-08-04 093529" src="https://github.com/user-attachments/assets/f55dbfe3-57c7-49ed-9335-52f6f2b1ac8e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a998b6b4-e242-4ed2-ae61-51161230258b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a41039e-a706-4137-9f84-0c9fe70f0ab0" />
 
 ---
 
 ### EC2 System Log
-<img width="1920" height="1080" alt="Screenshot 2026-08-04 093634" src="https://github.com/user-attachments/assets/7a6a424a-534a-4f34-afc9-13aed5758ece" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 195339" src="https://github.com/user-attachments/assets/06a78acf-5a43-4f8a-b5b2-fc0d2fd2b0e6" />
 
 ---
 
 ### EC2 Monitoring Diagnosis
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-06 105514" src="https://github.com/user-attachments/assets/4cb2d65a-a43a-4dc3-a9ae-1dfb877fe18d" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 195829" src="https://github.com/user-attachments/assets/0a71b830-9d3f-4613-bb20-6e0f4972e8d5" />
 
 ---
 
@@ -85,12 +85,13 @@ Cloud applications require scalable and reliable computing resources. The object
 
 ### EBS Volume Modification
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-06 110812" src="https://github.com/user-attachments/assets/6debd070-b653-4443-a46e-30fcd658f673" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 200310" src="https://github.com/user-attachments/assets/9ea4412b-79cf-4b14-b083-98ded0e4c679" />
+
 
 ---
 
 ### EC2 Instance Successfully Stopped
-<img width="1920" height="1080" alt="Screenshot 2026-08-06 111211" src="https://github.com/user-attachments/assets/7bae6dea-3a5f-434e-8a9c-2273744558ab" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 200051" src="https://github.com/user-attachments/assets/e36d4af2-8296-4098-b10f-558e88c112f1" />
 
 ---
 ## Result
