@@ -94,6 +94,10 @@ Cloud applications require scalable and reliable computing resources. The object
 <img width="1920" height="1080" alt="Screenshot 2026-08-17 200051" src="https://github.com/user-attachments/assets/e36d4af2-8296-4098-b10f-558e88c112f1" />
 
 ---
+
+### Grades:
+<img width="1700" height="866" alt="image" src="https://github.com/user-attachments/assets/92d3718b-5cce-4844-a02c-7f4b68261589" />
+
 ## Result
 
 Successfully launched and managed an Amazon EC2 instance, configured security settings, deployed an Apache web server using User Data, monitored the instance, resized the instance and storage volume, tested instance protection features, and explored Amazon EC2 service quotas.
